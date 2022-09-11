@@ -1,9 +1,7 @@
 def triangle(n,symbol):
      
     # number of spaces
-    k = n - 1
- 
-    
+    k = n - 1    
     for i in range(0, n):
      
         
